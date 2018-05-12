@@ -1,4 +1,8 @@
 _repo: The-Tenth-Man-A-Tragic-Comedy-in-Three-Acts_49916
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49916-h/images/cover.jpg
 creator:
   author:
     agent_name: Maugham, W. Somerset (William Somerset)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/126
     wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49916#The-Tenth-Man-A-Tragic-Comedy-in-Three-Acts
 gutenberg_issued: '2015-09-09'
 gutenberg_type: Text
 identifiers:
